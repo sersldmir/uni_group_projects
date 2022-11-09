@@ -1,0 +1,7 @@
+e2 - e4;h7 - h5
+e4 - e5;d7 - d5
+e5 : d6;qd8 : d6
+d2 - d3;qd6 : d3
+Bf1 : d3;h5 - h4
+Nb1 - c3;h4 - h3
+Ng1 : h3;ke8 - d7
